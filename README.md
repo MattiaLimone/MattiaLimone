@@ -65,9 +65,9 @@ My Github Stats
 [PHP-link]: https://www.php.net/
 [JavaScript]: https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript
 [JavaScript-link]: https://www.javascript.com/
-[CSS3]: https://img.shields.io/badge/css3-black?style=flat-square&logo=css3
+[CSS3]: https://img.shields.io/badge/css3-black?style=flat-square&logo=css3&logoColor=blue
 [CSS3-link]: https://www.w3.org/standards/webdesign/htmlcss
-[Apache]: https://img.shields.io/badge/apache-black?style=flat-square&logo=apache
+[Apache]: https://img.shields.io/badge/apache-black?style=flat-square&logo=apache&logoColor=red
 [Apache-link]: https://httpd.apache.org/
 [HTML5]: https://img.shields.io/badge/html5-black?style=flat-square&logo=html5
 [HTML5-link]: https://www.w3.org/standards/webdesign/htmlcss
