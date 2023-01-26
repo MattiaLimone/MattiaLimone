@@ -10,7 +10,7 @@
 <a href="https://github.com/MattiaLimone/MattiaLimone/blob/main/Mattia_Limone_Curriculum_Vitae.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="[https://www.linkedin.com/in/andrea-terlizzi-4ba891263/](https://www.linkedin.com/in/mattia-limone/)">
+<a href="https://www.linkedin.com/in/mattia-limone/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:mattia.limone@mail.com">
@@ -21,7 +21,7 @@
 </a>
 <br/> 
 
-<a href="[https://github.com/Attornado](https://github.com/MattiaLimone)">
+<a href="https://github.com/MattiaLimone">
     <img src="https://github-stats-alpha.vercel.app/api?username=Attornado&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
@@ -39,7 +39,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [DNN-HMM](https://github.com/MattiaLimone/dnn-hmm) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/dnn-hmm?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] [![TF]][TF-link] [![SK-Learn]][SK-learn-link] [![SciPy]][SciPy-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
-| [QuProBERT](https://github.com/MattiaLimone/QuProBert) | <img alt="Stars" src="https://img.shields.io/github/stars/Attornado/protein-reconstruction?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link]  [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
+| [QuProBERT](https://github.com/MattiaLimone/QuProBert) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/QuProBert?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link]  [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
 
 </td></tr> </table>
 
