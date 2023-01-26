@@ -61,15 +61,15 @@ My Github Stats
 
 
 <!--Badges-->
-[PHP]: https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white
+[PHP]: https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white
 [PHP-link]: https://www.php.net/
-[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E
 [JavaScript-link]: https://www.javascript.com/
-[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[CSS3]: https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white
 [CSS3-link]: https://www.w3.org/standards/webdesign/htmlcss
-[Apache]: https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white
+[Apache]: https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white
 [Apache-link]: https://httpd.apache.org/
-[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white
 [HTML5-link]: https://www.w3.org/standards/webdesign/htmlcss
 [Keras]: https://img.shields.io/badge/Keras-black?style=flat&logo=keras&logoColor=darkred
 [Keras-link]: https://keras.io/
