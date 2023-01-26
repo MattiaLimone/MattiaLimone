@@ -61,7 +61,7 @@ My Github Stats
 
 
 <!--Badges-->
-[PHP]: https://img.shields.io/badge/php-black?style=flat-square&logo=php&logoColor=white
+[PHP]: https://img.shields.io/badge/php-black?style=flat-square&logo=php
 [PHP-link]: https://www.php.net/
 [JavaScript]: https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript
 [JavaScript-link]: https://www.javascript.com/
