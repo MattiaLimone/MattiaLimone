@@ -39,6 +39,7 @@
 |Title | Stars | Technologies|
 |--|--|--|
 | [DNN-HMM](https://github.com/MattiaLimone/dnn-hmm) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/dnn-hmm?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link] [![TF]][TF-link] [![SK-Learn]][SK-learn-link] [![SciPy]][SciPy-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
+| [HuggingGreen](https://github.com/MattiaLimone/HuggingGreen) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/HuggingGreen?style=flat-square&labelColor=black"/> | [![PyTorch]][PyTorch-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
 | [QuProBERT](https://github.com/MattiaLimone/QuProBert) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/QuProBert?style=flat-square&labelColor=black"/> | [![Keras]][Keras-link]  [![TF]][TF-link] [![Numpy]][Numpy-link] [![Pandas]][Pandas-link]|
 | [HubGrub](https://github.com/MattiaLimone/HubGrub) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/HubGrub?style=flat-square&labelColor=black"/> | [![Ethereum]][Ethereum-link] [![Solidity]][Solidity-link] [![NodeJS]][NodeJS-link] [![JavaScript]][JavaScript-link] [![HTML5]][HTML5-link] [![CSS3]][CSS3-link]|
 | [CCC](https://github.com/MattiaLimone/ccc-vvf) | <img alt="Stars" src="https://img.shields.io/github/stars/MattiaLimone/ccc-vvf?style=flat-square&labelColor=black"/> | [![PHP]][PHP-link]  [![JavaScript]][JavaScript-link] [![HTML5]][HTML5-link] [![CSS3]][CSS3-link] [![Apache]][Apache-link]|
