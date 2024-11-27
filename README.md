@@ -21,7 +21,7 @@
 
 </p>
 
-* 📖 Artificial Intelligence Engineer at Leonardo S.p.A.
+* 💼 Artificial Intelligence Engineer at Leonardo S.p.A.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
