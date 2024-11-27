@@ -6,18 +6,12 @@
 
 <!-- <a href="https://gkos.tech">
     <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
-</a> -->
-<a href="https://github.com/MattiaLimone/MattiaLimone/blob/main/Mattia_Limone_Curriculum_Vitae.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
+</a> --> 
 <a href="https://www.linkedin.com/in/mattia-limone/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:mattia.limone@mail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
-<a href="https://www.researchgate.net/profile/Mattia-Limone" target="_blank">
-    <img alt='ResearchGate' src='https://img.shields.io/badge/ResearchGate-gray?style=flat&logo=researchgate'>
 </a>
 <br/> 
 
@@ -27,7 +21,7 @@
 
 </p>
 
-* 📖 Pursuing Master Degree in Data Science & Machine Learning at [University of Salerno](https://corsi.unisa.it/informatica-magistrale). 
+* 📖 Artificial Intelligence Engineer at Leonardo S.p.A.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
